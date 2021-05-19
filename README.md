@@ -35,7 +35,7 @@ The contents in this project follow the following structure.
                        |----contact section
 
 ```
-##Setup
+###Setup
 
 ##### Clone the repository
 
