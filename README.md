@@ -37,5 +37,5 @@ The contents in this project follow the following structure.
 ##### Clone the repository
 
 ```bash
-
+   https://github.com/kumardeepak123/portfolio.git
 ```
